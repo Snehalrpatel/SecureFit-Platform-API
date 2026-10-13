@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 import java.time.LocalDateTime;
 import java.util.Map;
 
+
+// initializing all the necessary fields using Lombok annotations like - @Data, @NoArgsCOnstructor, @AllArgsConstrcutor
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
